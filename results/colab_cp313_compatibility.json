@@ -1,0 +1,73 @@
+{
+  "verification": "PyPI JSON metadata and packaging CPython 3.13 Linux wheel tag intersection",
+  "sources": [
+    "https://pypi.org/pypi/safetensors/0.5.3/json",
+    "https://pypi.org/pypi/tokenizers/0.21.0/json",
+    "https://pypi.org/pypi/gensim/4.4.0/json",
+    "https://pypi.org/pypi/sentencepiece/0.2.1/json",
+    "https://pypi.org/pypi/pymupdf/1.28.2/json"
+  ],
+  "compatible_native_wheels": {
+    "safetensors==0.5.3": [
+      "safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+    ],
+    "tokenizers==0.21.0": [
+      "tokenizers-0.21.0-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+    ],
+    "gensim==4.4.0": [
+      "gensim-4.4.0-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl"
+    ],
+    "sentencepiece==0.2.1": [
+      "sentencepiece-0.2.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl"
+    ],
+    "pymupdf==1.28.2": [
+      "pymupdf-1.28.2-cp310-abi3-manylinux_2_28_x86_64.whl"
+    ]
+  },
+  "old_pins_without_cp313_linux_wheels": [
+    "safetensors==0.4.3",
+    "sentencepiece==0.2.0"
+  ],
+  "underlying_user_pip_log_received": false,
+  "exact_user_failure_cause_confirmed": false,
+  "packages_installed_locally": 0,
+  "remote_installation_verified": false,
+  "training_started": false,
+  "scientific_code_cells_3_to_104_unchanged": true,
+  "pip_dry_run": {
+    "exit_code": 0,
+    "target_python": "3.13",
+    "target_platforms": [
+      "manylinux_2_28_x86_64",
+      "manylinux2014_x86_64"
+    ],
+    "dependencies_resolved": false,
+    "packages": [
+      {
+        "name": "safetensors",
+        "version": "0.5.3",
+        "wheel_url": "https://files.pythonhosted.org/packages/a6/f8/dae3421624fcc87a89d42e1898a798bc7ff72c61f38973a65d60df8f124c/safetensors-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      },
+      {
+        "name": "tokenizers",
+        "version": "0.21.0",
+        "wheel_url": "https://files.pythonhosted.org/packages/22/06/69d7ce374747edaf1695a4f61b83570d91cc8bbfc51ccfecf76f56ab4aac/tokenizers-0.21.0-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      },
+      {
+        "name": "gensim",
+        "version": "4.4.0",
+        "wheel_url": "https://files.pythonhosted.org/packages/b3/b9/ee43ef9c391857232603a9ee281e9c5953f7922d70c98c2296a037d1c0b7/gensim-4.4.0-cp313-cp313-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl"
+      },
+      {
+        "name": "sentencepiece",
+        "version": "0.2.1",
+        "wheel_url": "https://files.pythonhosted.org/packages/96/df/0cfe748ace5485be740fed9476dee7877f109da32ed0d280312c94ec259f/sentencepiece-0.2.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl"
+      },
+      {
+        "name": "pymupdf",
+        "version": "1.28.2",
+        "wheel_url": "https://files.pythonhosted.org/packages/c7/06/dace3e27af26690cb20bead80dbac42941b0841eb689b8aabbd67dde16f0/pymupdf-1.28.2-cp310-abi3-manylinux_2_28_x86_64.whl"
+      }
+    ]
+  }
+}

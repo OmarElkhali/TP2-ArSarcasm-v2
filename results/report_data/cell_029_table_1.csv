@@ -1,0 +1,5 @@
+Unnamed: 0,model,val_f1_sarcastique,val_pr_auc_ap,threshold,train_seconds
+0,A_tfidf_conservateur,0.520607,0.514514,0.516072,5.743542
+1,A_tfidf_agressif,0.495935,0.490162,0.487735,5.35378
+2,A_tfidf_standard,0.519481,0.517236,0.250351,5.661903
+3,A_tfidf_sur_echantillonne,0.474308,0.476991,0.350759,8.879105

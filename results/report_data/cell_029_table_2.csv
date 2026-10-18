@@ -1,0 +1,4 @@
+Unnamed: 0,indice,orientation,f1_sarcastique,precision,recall,macro_f1,pr_auc_ap
+0,url,0,0.361768,0.232804,0.81106,0.478867,0.221488
+1,mention,0,0.266439,0.163522,0.718894,0.312458,0.166161
+2,artefact_guillemets,0,0.300578,0.218947,0.479263,0.517176,0.194973

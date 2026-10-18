@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,size,sum,mean
+Unnamed: 0_level_1,dialect,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1
+train,egypt,2320,814,0.350862
+train,gulf,511,117,0.228963
+train,levant,549,119,0.216758
+train,magreb,35,13,0.371429
+train,msa,7427,801,0.10785
+val,egypt,260,94,0.361538
+val,gulf,68,14,0.205882
+val,levant,55,16,0.290909
+val,magreb,5,0,0.0
+val,msa,867,93,0.107266
+test,egypt,306,155,0.506536
+test,gulf,322,57,0.177019
+test,levant,47,14,0.297872
+test,magreb,2,0,0.0
+test,msa,2323,595,0.256134

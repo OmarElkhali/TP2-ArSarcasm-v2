@@ -1,0 +1,22 @@
+{
+  "aubmindlab/bert-base-arabertv02-twitter": {
+    "path": "models/hf/aubmindlab--bert-base-arabertv02-twitter",
+    "revision": "0decc2e761667f0aea7aa94546ada5a32a6e5bb8",
+    "sha256": "17ef69f6e9186c214208a1f4187e1d10e6fa097b40bb33adb0bf85315cd7ee15"
+  },
+  "UBC-NLP/MARBERTv2": {
+    "path": "models/hf/UBC-NLP--MARBERTv2",
+    "revision": "fe88db9db8ccdb0c4e1627495f405c44a5f89066",
+    "sha256": "5d34aca06d9ec233e8483478faec43cea7c819d1ea4f83fc99d9c8067dcf8bab"
+  },
+  "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7": {
+    "path": "models/hf/MoritzLaurer--mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+    "revision": "b5113eb38ab63efdd7f280f8c144ea8b13f978ce",
+    "sha256": "7c8e29f1115986d032e92b0fbaa0bdef1062a46f658b08705f237c05014a8541"
+  },
+  "CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment": {
+    "path": "models/hf/CAMeL-Lab--bert-base-arabic-camelbert-da-sentiment",
+    "revision": "b0df630d23e5aa5f8a326017605337f6d0863ecd",
+    "sha256": "e873919e8a1e90663870a791d7eda9dabc572b03605cf671d9478f60e0230c0c"
+  }
+}

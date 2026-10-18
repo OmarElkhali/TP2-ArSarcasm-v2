@@ -1,0 +1,24 @@
+{
+  "backup": "results\\history\\before_quality_and_plots_20261018_091651",
+  "architectures_unchanged": true,
+  "datasets_unchanged": true,
+  "plm_max_epochs": 5,
+  "patience": 2,
+  "lr": 2e-05,
+  "weight_decay_matrices": 0.01,
+  "weight_decay_bias_norm": 0.01,
+  "quality_gain_measured": false,
+  "training_started": false,
+  "graphs_creation_and_render_same_cell": true,
+  "previous_outputs_preserved": true,
+  "checks_passed": [
+    "check_quality_and_phrases",
+    "verify_layout",
+    "check_colab_resources",
+    "check_gpu_config"
+  ],
+  "previous_t4_code_cells_executed": 104,
+  "plots_verified_on_real_train_without_training": true,
+  "optimizer_policy": "adamw_uniform_wd_0p01_v1",
+  "strict_tp_settings_backup": "results\\history\\before_uniform_weight_decay_20261018_093310"
+}

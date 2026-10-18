@@ -1,0 +1,6 @@
+Unnamed: 0,McNemar
+model_1,E2_AraBERT_lambda0p3_seed42
+model_2,D2_BiLSTM_attention_seed42
+b_correct_1_only,151
+c_correct_2_only,156
+pvalue_exact,0.819465

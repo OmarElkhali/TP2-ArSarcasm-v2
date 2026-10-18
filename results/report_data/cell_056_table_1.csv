@@ -1,0 +1,4 @@
+Unnamed: 0,model,F1_seuil_05,F1_seuil_val,seuil
+0,C3_AraVec_seed42,0.503165,0.542694,0.615209
+1,C_meilleur_oversample_seed42,0.498516,0.54102,0.812528
+2,C_meilleur_standard_seed42,0.439628,0.534653,0.293901

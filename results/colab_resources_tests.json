@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "csv_download_and_hash_verified_with_local_fixture": true,
+  "hf_revision_pinned_and_token_disabled_verified_with_mock": true,
+  "verified_download_reused": true,
+  "corrupt_csv_and_weights_rejected": true,
+  "aravec_extraction_and_reuse_verified": true,
+  "archive_traversal_rejected": true,
+  "embedded_bootstrap_matches_repository": true,
+  "empty_colab_path_block_verified_with_simulated_downloads": true,
+  "network_calls": 0,
+  "pretrained_models_loaded": 0,
+  "training_started": false,
+  "notebook_executed": false
+}

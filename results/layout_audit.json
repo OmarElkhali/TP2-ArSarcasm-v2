@@ -1,0 +1,16 @@
+{
+  "layout": "tp_repository",
+  "required_folders_and_modules": true,
+  "notebook": "notebooks/TP2_Sarcasme_Arabe_T4.ipynb",
+  "code_cells": 104,
+  "detailed_explanations": 104,
+  "paths_root_and_notebooks_checked": true,
+  "relocated_paths_checked": true,
+  "all_resources_in_repository": true,
+  "dataset_sha256_verified": true,
+  "historical_validation_caches_checked": 14,
+  "notebook_executed_by_check": false,
+  "pretrained_models_loaded": 0,
+  "optimizer_steps": 0,
+  "backward_calls": 0
+}

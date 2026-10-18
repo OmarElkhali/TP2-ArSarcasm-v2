@@ -1,0 +1,20 @@
+{
+  "notebook": "notebooks/TP2_Sarcasme_Arabe_T4.ipynb",
+  "saved_user_outputs": "results/history/stale_editor_20261017_225846",
+  "bootstrap_files": [
+    "src/__init__.py",
+    "src/preprocess.py",
+    "src/aravec_utilities.py",
+    "src/colab_resources.py",
+    "models/revisions.json",
+    "models/aravec_manifest.json",
+    "data/raw/manifest.json",
+    "requirements-colab.txt"
+  ],
+  "bootstrap_bytes": 11292,
+  "bootstrap_sha256": "a73d1a98482328a362f033677bf3d6f0411acf24ce7239d2cfc5f4f85391a0f6",
+  "architectures_unchanged": true,
+  "notebook_executed": false,
+  "model_downloads_performed": 0,
+  "training_started": false
+}

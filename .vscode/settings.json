@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\SetupGame\\anaconda3\\python.exe",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "notebook.output.textLineLimit": 200,
+  "notebook.output.scrolling": true
+}

@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "architectures_unchanged": true,
+  "plm_max_epochs": 5,
+  "uniform_weight_decay_0p01_verified": true,
+  "all_model_parameters_in_optimizer": true,
+  "incompatible_run_archive_tested_with_fixtures": true,
+  "closed_figure_explicitly_rendered": true,
+  "empty_figure_rejected": true,
+  "threshold_pr_cell_has_two_populated_axes": true,
+  "phrase_baseline_inference_real": true,
+  "phrase_model_reused": true,
+  "b2_argmax_rule_verified_with_mock": true,
+  "other_five_inference_branches_verified_with_mocks": true,
+  "inference_notebook_bundle_verified": true,
+  "pretrained_plm_models_loaded": 0,
+  "new_training_runs": 0,
+  "optimizer_steps": 0,
+  "backward_calls": 0,
+  "test_labels_read": false
+}

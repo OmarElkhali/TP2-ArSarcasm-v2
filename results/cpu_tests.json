@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "notebook_executed": false,
+  "optimizer_steps": 0,
+  "backward_calls": 0,
+  "pretrained_models_loaded": 0,
+  "corpus_inference_calls": 0,
+  "toy_tokenizer_texts": 4,
+  "loader_exact_for_two_epochs": [
+    [
+      "weighted",
+      false
+    ],
+    [
+      "standard",
+      false
+    ],
+    [
+      "oversample",
+      false
+    ],
+    [
+      "weighted",
+      true
+    ]
+  ],
+  "prediction_order_exact": true,
+  "toy_bert_padding_close": true,
+  "toy_bert_max_abs_probability_difference": 0.0,
+  "validation_cache_hit_and_invalidation": true,
+  "tokenization_cache_exact": true,
+  "frozen_trim_valid_states_and_row_order": true,
+  "frozen_encoder_reused": true
+}

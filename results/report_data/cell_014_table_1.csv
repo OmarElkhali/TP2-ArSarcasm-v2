@@ -1,0 +1,11 @@
+Unnamed: 0,Effectif
+train_initial,11293
+val,1255
+test,3000
+train_test_exact,2
+train_test_normalized,2
+train_val_normalized,72
+train_duplicate_rows,331
+contradictory_groups_train,47
+contradictory_rows_train,96
+train_final,10842

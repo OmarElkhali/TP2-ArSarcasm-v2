@@ -1,0 +1,6 @@
+Unnamed: 0,famille,n_initialement_detectes,taux_detection_avant,taux_detection_apres,chute
+0,A,480,1.0,0.90625,0.09375
+1,C,499,1.0,0.947896,0.052104
+2,D,516,1.0,0.934109,0.065891
+3,E1,572,1.0,0.942308,0.057692
+4,E2,584,1.0,0.953767,0.046233

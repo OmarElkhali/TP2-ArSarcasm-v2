@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+models/*
+!models/revisions.json
+!models/aravec_manifest.json
+data/*
+!data/raw/
+data/raw/*
+!data/raw/manifest.json
+logs/
+*.tmp.ipynb
+*.part
+logs_*.txt
+tmp/
+results/conda_pip_check.txt
+
+results/history/

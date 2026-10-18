@@ -1,0 +1,14 @@
+{
+  "train": {
+    "n": 10842,
+    "fixed_64_positions": 693888,
+    "original_batches_dynamic_positions": 510942,
+    "sorted_dynamic_positions": 295240
+  },
+  "val": {
+    "n": 1255,
+    "fixed_64_positions": 80320,
+    "original_batches_dynamic_positions": 56615,
+    "sorted_dynamic_positions": 34721
+  }
+}

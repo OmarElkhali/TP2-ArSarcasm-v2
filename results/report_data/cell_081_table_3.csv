@@ -1,0 +1,11 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,size,sum,mean
+Unnamed: 0_level_1,sentiment,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1
+train,NEG,4025,1686,0.418882
+train,NEU,4910,132,0.026884
+train,POS,1907,46,0.024122
+val,NEG,465,195,0.419355
+val,NEU,584,17,0.02911
+val,POS,206,5,0.024272
+test,NEG,1677,709,0.422779
+test,NEU,748,106,0.141711
+test,POS,575,6,0.010435

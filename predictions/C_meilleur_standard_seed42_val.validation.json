@@ -1,0 +1,25 @@
+{
+  "signature": "df0c9180497d395af748d8d4682a118037dd0740acf4554dc74636d4ea67d636",
+  "checkpoint_stat": {
+    "bytes": 6362754,
+    "mtime_ns": 1792249977812839500
+  },
+  "context": {
+    "max_len": 64,
+    "batch_plm": 16,
+    "batch_static": 64,
+    "torch": "2.6.0+cpu",
+    "transformers": "4.48.0",
+    "precision": "float32",
+    "protocol": "conservative-tp2-v1",
+    "train_val_sha256": "bfb2e464fec44a6945d865abf27cd9ed782636815dfc39a65d33ffac0b345b02",
+    "model_revisions": {
+      "aubmindlab/bert-base-arabertv02-twitter": "0decc2e761667f0aea7aa94546ada5a32a6e5bb8",
+      "UBC-NLP/MARBERTv2": "fe88db9db8ccdb0c4e1627495f405c44a5f89066",
+      "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7": "b5113eb38ab63efdd7f280f8c144ea8b13f978ce",
+      "CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment": "b0df630d23e5aa5f8a326017605337f6d0863ecd"
+    }
+  },
+  "probability_sha256": "3c92b60f2b2bdae096d03007c34202a49c3c458f8cc98422c3ab1ca1a69c2d22",
+  "producer": "historical_predictions_authenticated_before_cpu_optimisation"
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "colab_cpu_rejected": true,
+  "cuda_selection_simulated": true,
+  "amp_unscale_before_clipping_verified_with_mocks": true,
+  "scheduler_skip_on_overflow_verified_with_mocks": true,
+  "cuda_batch_32_cpu_batch_16": true,
+  "cpu_gpu_cache_context_distinct": true,
+  "architectures_unchanged": true,
+  "historical_results_unchanged": true,
+  "g_latency_kept_on_cpu": true,
+  "gpu_runtime_tested": false,
+  "real_optimizer_steps": 0,
+  "pytorch_backward_calls": 0,
+  "pretrained_models_loaded": 0,
+  "notebook_executed": false
+}

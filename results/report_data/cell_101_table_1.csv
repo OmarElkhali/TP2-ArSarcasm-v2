@@ -1,0 +1,8 @@
+Unnamed: 0,family,model,n_seeds,val_f1_mean,test_f1_mean,test_f1_std,test_ap_mean,train_seconds_mean,cpu_batch1_latency_ms,complete_weights_mb,threshold_seed42,trainable_parameters
+0,A,A_tfidf_conservateur,3,0.5206,0.5369,0.0,0.5349,5.7719,2.1534,5.8409,0.5161,124439
+1,C,C3_AraVec,3,0.5335,0.5402,0.0078,0.5465,7.6708,2.4929,7.1405,0.6152,1773946
+2,D,D2_BiLSTM_attention,3,0.676,0.5933,0.0121,0.6254,13.8387,128.2663,542.81,0.6983,435586
+3,E1,E1_AraBERT_mono,3,0.6743,0.6093,0.0221,0.6437,143.2107,117.8176,540.8659,0.5208,134604290
+4,E2,E2_AraBERT_lambda0p3,3,0.6824,0.6096,0.0131,0.6452,142.8676,116.6297,540.8769,0.4908,134606597
+5,B1,B1_NLI_en,1,0.4224,0.4625,,0.4077,0.0,407.5777,578.2752,0.8249,0
+6,B2,B2_negatif_sarcastique,1,0.4695,0.532,,0.4928,0.0,123.4833,436.695,0.5,0

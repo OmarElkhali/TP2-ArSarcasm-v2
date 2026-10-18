@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/iabufarha/ArSarcasm-v2/main/ArSarcasm-v2/training_data.csv",
+    "path": "data/raw/training_data.csv",
+    "bytes": 2393168,
+    "sha256": "1da727eb763459f436c4e61f52c6a0bc63d5300af8fcc99b5675ae4616dae04a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/iabufarha/ArSarcasm-v2/main/ArSarcasm-v2/testing_data.csv",
+    "path": "data/raw/testing_data.csv",
+    "bytes": 585081,
+    "sha256": "0f0a77ba8a4a0a9370846a42a93a63244092f1fb30a909595b70e17e299bcf6c"
+  }
+]

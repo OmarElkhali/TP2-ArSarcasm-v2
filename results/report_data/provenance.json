@@ -1,0 +1,15 @@
+{
+  "author": "Omar Elkhali",
+  "programme": "BDIOT",
+  "work": "individuel",
+  "execution_notebook": "notebooks/TP2_Sarcasme_Arabe_T4_Execution.ipynb",
+  "execution_sha256": "0ba3d479c25110f44a3ef7f35a060bd15092988e9c9a967fb8ce8c91c9f62111",
+  "executed_code_cells": 104,
+  "errors": 0,
+  "plm_max_epochs_measured": 3,
+  "plm_max_epochs_current_code": 5,
+  "tables_exported": 37,
+  "phrase_evidence": "user screenshot; different lambda and threshold from final T4 selection",
+  "test_prediction_csv_present_locally": 0,
+  "precision": "HTML tables saved to six decimals; comparison table rounded to four decimals"
+}

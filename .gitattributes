@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf
+*.pdf binary
+*.png binary
+*.npy binary
+*.npz binary
+# Copie officielle AraVec : préserver son contenu et son hash d'origine.
+src/aravec_utilities.py -whitespace

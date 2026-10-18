@@ -1,0 +1,5 @@
+﻿phrase,interpretation_informelle,score_capture,modele,seuil_capture,prediction_capture,source
+يا سلام، الإنترنت انقطع مرة أخرى، خدمة رائعة فعلاً 😂,Ironie attendue,0.002247,E2_AraBERT_lambda0p5_seed42,0.579043,Non sarcastique,Transcription de la capture fournie par Omar ; sorties non enregistrées dans le fichier local du testeur
+الجو جميل اليوم وسأذهب للمشي.,Littéral attendu,0.001082,E2_AraBERT_lambda0p5_seed42,0.579043,Non sarcastique,Transcription de la capture fournie par Omar ; sorties non enregistrées dans le fichier local du testeur
+شكراً على التأخير ساعتين، فعلاً تحترمون وقت الناس!,Ironie attendue,0.015058,E2_AraBERT_lambda0p5_seed42,0.579043,Non sarcastique,Transcription de la capture fournie par Omar ; sorties non enregistrées dans le fichier local du testeur
+لم يعجبني هذا الفيلم.,Littéral attendu,0.017326,E2_AraBERT_lambda0p5_seed42,0.579043,Non sarcastique,Transcription de la capture fournie par Omar ; sorties non enregistrées dans le fichier local du testeur

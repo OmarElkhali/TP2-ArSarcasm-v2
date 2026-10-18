@@ -1,0 +1,59 @@
+{
+  "source_results_sha256": "ed642881c3de252cfea444d7759644aeb70a850180fdd3a3eab5535c7f7c10b3",
+  "runs_checked": 24,
+  "metrics_per_run_verified": 5,
+  "val_tweets": 1255,
+  "val_positive": 217,
+  "val_prior": 0.17290836653386454,
+  "majority_accuracy": 0.8270916334661355,
+  "seeds_available": [
+    42
+  ],
+  "test_metrics_available": false,
+  "bootstrap_replicates": 1000,
+  "bootstrap_seed": 42,
+  "bootstrap_is_exploratory_validation_only": true,
+  "bootstrap_f1_ci95_fixed_thresholds": {
+    "E2_AraBERT_lambda1p0": [
+      0.6275358200274929,
+      0.7316322989987112
+    ],
+    "D2_BiLSTM_attention": [
+      0.6308907595401722,
+      0.7220187534473249
+    ],
+    "E1_AraBERT_mono": [
+      0.6214430757039558,
+      0.7229735781459918
+    ]
+  },
+  "bootstrap_f1_difference_ci95_E2_minus_reference": {
+    "D2_BiLSTM_attention": [
+      -0.04832042633409196,
+      0.047725684129887744
+    ],
+    "E1_AraBERT_mono": [
+      -0.025381900533163197,
+      0.0381507205636456
+    ]
+  },
+  "training_token_lengths": {
+    "aubmindlab/bert-base-arabertv02-twitter": {
+      "train_tweets": 10842,
+      "above_64": 76,
+      "above_128": 1,
+      "p95": 43.0,
+      "max": 133
+    },
+    "UBC-NLP/MARBERTv2": {
+      "train_tweets": 10842,
+      "above_64": 35,
+      "above_128": 0,
+      "p95": 39.0,
+      "max": 106
+    }
+  },
+  "new_training_runs": 0,
+  "pretrained_models_loaded": 0,
+  "test_labels_read": false
+}

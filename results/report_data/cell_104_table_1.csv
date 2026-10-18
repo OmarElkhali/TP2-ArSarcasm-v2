@@ -1,0 +1,7 @@
+Unnamed: 0,Vérifié
+train_val_disjoint,True
+train_test_disjoint,True
+val_test_disjoint,True
+test_official_count,True
+three_seeds_per_final_family,True
+final_prediction_files,True

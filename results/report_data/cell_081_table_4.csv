@@ -1,0 +1,7 @@
+Unnamed: 0,split,indice,presence,n,taux_sarcasme
+0,train,url,False,6711,0.239011
+1,train,url,True,4131,0.062939
+2,train,mention,False,8456,0.174669
+3,train,mention,True,2386,0.162196
+4,train,artefact_guillemets,False,4260,0.253286
+5,train,artefact_guillemets,True,6582,0.119265

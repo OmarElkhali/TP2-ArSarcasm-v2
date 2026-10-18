@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "pip_calls_simulated_only": true,
+  "network_calls": 0,
+  "packages_installed": 0,
+  "local_conda_unchanged": true,
+  "already_ready_no_install": true,
+  "missing_emoji_and_arabert_detected": true,
+  "restart_required_after_install": true,
+  "bootstrap_matches_requirements_file": true,
+  "torch_not_requested": true,
+  "pip_failure_output_visible": true,
+  "failure_not_reported_as_success": true,
+  "native_extensions_require_wheels": true,
+  "notebook_executed": false,
+  "training_started": false
+}

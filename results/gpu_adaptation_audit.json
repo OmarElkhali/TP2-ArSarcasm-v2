@@ -1,0 +1,15 @@
+{
+  "backup": "results/history/before_t4_20261017_224607",
+  "model_architectures_unchanged": true,
+  "code_cells": 104,
+  "gpu_available_locally": false,
+  "gpu_runtime_tested": false,
+  "notebook_executed": false,
+  "optimizer_steps": 0,
+  "backward_calls": 0,
+  "cpu_results_sha256": "ed642881c3de252cfea444d7759644aeb70a850180fdd3a3eab5535c7f7c10b3",
+  "preprocess_sha256": "0667f02d9dfe858a2ab55f6558eed3724132a5970044a1a843a55cb6383cde28",
+  "lightweight_configuration_tests_passed": true,
+  "cpu_forward_regression_tests_passed": true,
+  "layout_tests_passed": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://bakrianoo.ewr1.vultrobjects.com/aravec/full_uni_cbow_100_twitter.zip",
+    "path": "models\\full_uni_cbow_100_twitter.zip",
+    "bytes": 962251835,
+    "sha256": "f94e57b51cd0b2256c49552be0bd20fc30dbe696f7c545811804dd6264c5ad08"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bakrianoo/aravec/master/utilities.py",
+    "path": "src\\aravec_utilities.py",
+    "bytes": 2412,
+    "sha256": "e2995af8f9aab8d7a364e2a04fc8518e2eec5c530b683cabbff13d9386edd264"
+  }
+]

@@ -1,0 +1,187 @@
+{
+  "kind": "synthetic_forward_only_no_training",
+  "optimizer_steps": 0,
+  "backward_calls": 0,
+  "pretrained_models_loaded": 0,
+  "dataset_examples_used": 0,
+  "torch": "2.6.0+cpu",
+  "cpu_capability": "AVX2",
+  "mkldnn": true,
+  "thread_measurements": [
+    {
+      "round": 0,
+      "threads": 1,
+      "length": 24,
+      "ms": 61.11055000292254
+    },
+    {
+      "round": 0,
+      "threads": 1,
+      "length": 48,
+      "ms": 117.62799999996787
+    },
+    {
+      "round": 0,
+      "threads": 2,
+      "length": 24,
+      "ms": 35.79709999758052
+    },
+    {
+      "round": 0,
+      "threads": 2,
+      "length": 48,
+      "ms": 70.14055000036024
+    },
+    {
+      "round": 0,
+      "threads": 3,
+      "length": 24,
+      "ms": 37.56889999931445
+    },
+    {
+      "round": 0,
+      "threads": 3,
+      "length": 48,
+      "ms": 81.39839999785181
+    },
+    {
+      "round": 0,
+      "threads": 4,
+      "length": 24,
+      "ms": 28.63739999884274
+    },
+    {
+      "round": 0,
+      "threads": 4,
+      "length": 48,
+      "ms": 57.13530000139144
+    },
+    {
+      "round": 0,
+      "threads": 6,
+      "length": 24,
+      "ms": 21.664449996023905
+    },
+    {
+      "round": 0,
+      "threads": 6,
+      "length": 48,
+      "ms": 42.134850002184976
+    },
+    {
+      "round": 0,
+      "threads": 12,
+      "length": 24,
+      "ms": 19.567700001061894
+    },
+    {
+      "round": 0,
+      "threads": 12,
+      "length": 48,
+      "ms": 38.42089999670861
+    },
+    {
+      "round": 1,
+      "threads": 12,
+      "length": 24,
+      "ms": 20.29835000212188
+    },
+    {
+      "round": 1,
+      "threads": 12,
+      "length": 48,
+      "ms": 35.77930000028573
+    },
+    {
+      "round": 1,
+      "threads": 6,
+      "length": 24,
+      "ms": 20.521599999483442
+    },
+    {
+      "round": 1,
+      "threads": 6,
+      "length": 48,
+      "ms": 41.19329999957699
+    },
+    {
+      "round": 1,
+      "threads": 4,
+      "length": 24,
+      "ms": 27.355900005204603
+    },
+    {
+      "round": 1,
+      "threads": 4,
+      "length": 48,
+      "ms": 55.258649997995235
+    },
+    {
+      "round": 1,
+      "threads": 3,
+      "length": 24,
+      "ms": 35.775000003923196
+    },
+    {
+      "round": 1,
+      "threads": 3,
+      "length": 48,
+      "ms": 66.86149999586632
+    },
+    {
+      "round": 1,
+      "threads": 2,
+      "length": 24,
+      "ms": 40.69014999913634
+    },
+    {
+      "round": 1,
+      "threads": 2,
+      "length": 48,
+      "ms": 66.44480000250041
+    },
+    {
+      "round": 1,
+      "threads": 1,
+      "length": 24,
+      "ms": 61.33069999850704
+    },
+    {
+      "round": 1,
+      "threads": 1,
+      "length": 48,
+      "ms": 121.95069999870611
+    }
+  ],
+  "thread_mean_ms": {
+    "1": 90.50498750002589,
+    "2": 53.268149999894376,
+    "3": 55.40094999923895,
+    "4": 42.096812500858505,
+    "6": 31.37854999931733,
+    "12": 28.51656250004453
+  },
+  "selected_threads": 6,
+  "sdpa": {
+    "eager_layer_ms": 42.757149996759836,
+    "sdpa_layer_ms": 41.029550000530435,
+    "max_abs_difference_eval": 9.5367431640625e-07,
+    "kernel_eager_dropout_0.0_ms": 0.9155999978247564,
+    "kernel_sdpa_dropout_0.0_ms": 0.9418999979970977,
+    "kernel_eager_dropout_0.1_ms": 1.2626000025193207,
+    "kernel_sdpa_dropout_0.1_ms": 1.7475999993621372,
+    "transformers_default_attention": "sdpa"
+  },
+  "dataloader": {
+    "sample_collate_epoch_ms": 50.05739999978687,
+    "vectorized_epoch_ms": 26.856999997107778,
+    "exact_batch_order_and_rng": true
+  },
+  "compile": {
+    "available": false,
+    "enabled": false,
+    "reason": "Compiler: cl is not found."
+  },
+  "seconds": 12.13446439999825,
+  "scope": "Une couche BERT aléatoire, tenseurs synthétiques. Aucun gain d’entraînement complet mesuré."
+}

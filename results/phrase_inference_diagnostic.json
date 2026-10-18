@@ -1,0 +1,18 @@
+{
+  "checkpoint": "E2_AraBERT_lambda0p5_seed42",
+  "device": "cpu",
+  "remote_checkpoint_verified": false,
+  "phrase_scores": [
+    0.00481065409258008,
+    0.0009327831212431192,
+    0.027889493852853775,
+    0.0243599321693182
+  ],
+  "local_threshold": 0.7004771828651428,
+  "validation_reference_rows": 8,
+  "validation_max_abs_error": 0.0,
+  "main_notebook_inference_max_abs_error": 0.0,
+  "models_loaded": 1,
+  "new_training_runs": 0,
+  "network_calls": 0
+}
