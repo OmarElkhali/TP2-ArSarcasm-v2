@@ -6,6 +6,7 @@ Dépôt public : **https://github.com/OmarElkhali/TP2-ArSarcasm-v2**.
 
 ## Consulter le compte rendu et les résultats
 
+- [Guide explicatif complet du projet et de chaque cellule](Guide_Explicatif_TP2.md) : architectures A–G, notions, exemples, **104 fiches du TP + 6 du testeur**, code commenté et correspondance avec les anciennes versions. À ouvrir dans VS Code avec **Ctrl+Maj+V** pour l’aperçu Markdown.
 - [Compte rendu PDF](Compte_Rendu_TP2.pdf) : **six pages de corps + quatre pages d'annexes**, réponses Q1–Q12, comparaison des modèles, robustesse, incertitude et essais sur phrases.
 - [Notebook T4 exécuté, avec ses sorties](notebooks/TP2_Sarcasme_Arabe_T4_Execution.ipynb) : copie préservée de l'exécution **104/104 cellules, sans erreur enregistrée**, avec **trois époques PLM maximum** (plage du TP : 3–5).
 - [Notebook de travail](notebooks/TP2_Sarcasme_Arabe_T4.ipynb) : code courant, plafond **cinq époques** ; les anciens scores ne sont pas attribués à ces nouveaux réglages non exécutés.
